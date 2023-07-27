@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T00:10:16.113Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ZC-2_dnKm1uqV_h3NXNu" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T00:11:39.316Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="o9moZSwi87Vea1LZPodf" version="21.6.5" type="github">
   <diagram name="Página-1" id="ziMSc9ZiG6M0TnIhPRJV">
-    <mxGraphModel dx="2811" dy="1957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1230" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pRsxeg6nlHUlIXsSP61g-1" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;shadow=0;" vertex="1" parent="1">
+        <mxCell id="pRsxeg6nlHUlIXsSP61g-1" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;shadow=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="33" y="591" width="1657" height="84" as="geometry" />
         </mxCell>
         <mxCell id="pRsxeg6nlHUlIXsSP61g-2" value="Interoperability" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -31,7 +31,7 @@
         <mxCell id="pRsxeg6nlHUlIXsSP61g-9" value="Monitoring and Analytics" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1421" y="616" width="190" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="pRsxeg6nlHUlIXsSP61g-10" value="GSN Platform" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;shadow=0;" vertex="1" parent="1">
+        <mxCell id="pRsxeg6nlHUlIXsSP61g-10" value="GSN Ecosystem" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;shadow=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="133" width="1655" height="390" as="geometry" />
         </mxCell>
         <mxCell id="pRsxeg6nlHUlIXsSP61g-11" value="Account Management" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -243,9 +243,9 @@
           <mxGeometry x="827" y="60" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pRsxeg6nlHUlIXsSP61g-48" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Reference:&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&quot;User&quot; interacts with &quot;Account Management,&quot; &quot;Messaging,&quot; &quot;Content Management,&quot; &quot;Community Building,&quot; and &quot;Tokenization&quot; sub-components.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Each of these components interacts with &quot;Cryptographic Measures&quot; for secure communication. &lt;br&gt;&lt;br&gt;All these components store their data on the &quot;Decentralized Database.&quot; The &quot;Decentralized Database&quot; is responsible for &quot;Fault Tolerance and Redundancy&quot; and stores data on &quot;Decentralized Storage.&quot; &quot;Fault Tolerance and Redundancy&quot; ties into the &quot;Future Considerations&quot; - &quot;Interoperability,&quot; &quot;Edge Computing,&quot; &quot;Quantum-Resistant Cryptography,&quot; &quot;Cross-Chain Compatibility,&quot; &quot;DAO,&quot; &quot;Open-Source Development,&quot; &quot;TDD,&quot; and &quot;Monitoring and Analytics.&quot; components.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="33" y="730" width="951" height="120" as="geometry" />
+          <mxGeometry x="33" y="730" width="1047" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="pRsxeg6nlHUlIXsSP61g-53" value="Future considerations &amp;amp; Improvments" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="pRsxeg6nlHUlIXsSP61g-53" value="Future considerations &amp;amp; Improvements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="748" y="554" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
